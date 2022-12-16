@@ -10,7 +10,7 @@ Aluno: Maycon de Lima César
 
 ##
 
-Selection-Sort-Animation.gif
+<img align="center" alt="Linux" height="30" width="40" src="https://https://github.com/maycovisk/selection-sort-estrutura-de-dados/blob/main/Selection-Sort-Animation.gif">
 
 
 Vídeo da apresentação Selection Sort
