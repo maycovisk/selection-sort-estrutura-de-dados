@@ -1,10 +1,16 @@
-#Selection Sort - Algoritmo de Ordenação
-Implementação do Selection Sort
+##Selection Sort - Algoritmo de Ordenação
+###Implementação do Selection Sort
 
-Estrutura de Dados
+##
+
+##Estrutura de Dados
 Professor: Marques Moreira de Sousa
 IFSP Campos do Jordão
 Aluno: Maycon de Lima César 
+
+##
+
+Selection-Sort-Animation.gif
 
 
 Vídeo da apresentação Selection Sort
