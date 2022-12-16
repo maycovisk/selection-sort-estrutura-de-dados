@@ -1,9 +1,9 @@
-##Selection Sort - Algoritmo de Ordenação
-###Implementação do Selection Sort
+## Selection Sort - Algoritmo de Ordenação
+### Implementação do Selection Sort
 
 ##
 
-##Estrutura de Dados
+## Estrutura de Dados
 Professor: Marques Moreira de Sousa
 IFSP Campos do Jordão
 Aluno: Maycon de Lima César 
@@ -24,7 +24,9 @@ Em cada iteração da classificação por seleção, o elemento mínimo (conside
 
 
 Vídeo da apresentação Selection Sort
+
 https://youtu.be/
+
 
 Manual de Utilização
 O manual.md está disponivel neste repositório
