@@ -27,16 +27,16 @@ void selection_sort(int num[], int tam) {
 
 int main(){
     int escolha;
-    int vetorAleatorio[n] = {3,4,1,0,2};
-    int vetorOrdenado[n] = {0,1,2,3,4};
-    int vetorInvertido[n] = {4,3,2,1,0};
+    int vetorAleatorio[n] = {3,4,1,5,2};
+    int vetorOrdenado[n] = {1,2,3,4,5};
+    int vetorInvertido[n] = {5,4,3,2,1};
 
     do{
         printf("============= MESA DE TESTE ============\n");
         printf("| 0 .............................. SAIR |\n");
         printf("| 1 .......... Vetor em Ordem Crescente |\n");
         printf("| 2 ........ Vetor em Ordem Decrescente |\n");
-        printf("| 3 .......... Vetor em Ordem Aleatória |\n");
+        printf("| 3 .......... Vetor em Ordem AleatÃ³ria |\n");
         printf("========================================\n");
         scanf("%d", &escolha);
         system("cls");
