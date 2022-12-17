@@ -4,9 +4,9 @@
 ### Menu
 
 No menu o usuário tem 3 opções de vetores, sendo
-- O primeiro ordenado {0,1,2,3,4};
-- O segundo invertido {4,3,2,1,0};
-- O terceiro aleatório {4,3,2,1,0};
+- O primeiro ordenado {1,2,3,4,5};
+- O segundo invertido {5,4,3,2,1};
+- O terceiro aleatório {4,3,2,1,5};
 
 ## 
 
