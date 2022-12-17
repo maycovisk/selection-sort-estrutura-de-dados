@@ -51,7 +51,7 @@ int main(){
                 printf("%d -", vetorOrdenado[i]);
             }
             selection_sort(vetorOrdenado,n);
-            printf("\n");
+            printf("\n\n");
             for(int i = 0;i < n; i++){
                 printf("%d -", vetorOrdenado[i]);
             }
@@ -64,7 +64,7 @@ int main(){
                 printf("%d -", vetorInvertido[i]);
             }
             selection_sort(vetorInvertido,n);
-            printf("\n");
+            printf("\n\n");
             for(int i = 0;i < n; i++){
                 printf("%d -", vetorInvertido[i]);
             }
@@ -77,7 +77,7 @@ int main(){
                 printf("%d -", vetorAleatorio[i]);
             }
             selection_sort(vetorAleatorio,n);
-            printf("\n");
+            printf("\n\n");
             for(int i = 0;i < n; i++){
                 printf("%d -", vetorAleatorio[i]);
             }
