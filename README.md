@@ -25,7 +25,7 @@ Em cada iteração da classificação por seleção, o elemento mínimo (conside
 
 Vídeo da apresentação Selection Sort
 
-https://youtu.be/
+https://www.youtube.com/watch?v=t4d5VRY53KY
 
 
 Manual de Utilização
